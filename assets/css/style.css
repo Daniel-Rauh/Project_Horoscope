@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+#gullible{
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 15%;
+    padding: 15px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+h2{
+    color: #F6004A;
+}
